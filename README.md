@@ -1,4 +1,7 @@
-# OIBSIP - Oasis Infobyte Internship Projects
+# Oasis Infobyte Internship - Python Programming Projects (OIBSIP)
+
+> The repository is named `OIBSIP` because the Oasis Infobyte internship programme asks every intern to use exactly that name.
+> It contains three desktop apps built with Python and tkinter: a BMI Calculator, a Random Password Generator and a Weather App.
 
 **Intern:** Sannidhi Ranga Sudeeksha  
 **Track:** Python Programming  
