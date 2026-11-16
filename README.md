@@ -12,8 +12,6 @@ This repository holds my submissions for the Oasis Infobyte internship (AICTE OI
 | 3 | [Random Password Generator](Python-Task3-PasswordGenerator) | tkinter GUI, `secrets`-based generation, strength bar, clipboard copy, ambiguous-character option, last-5 history | [Watch](Python-Task3-PasswordGenerator/demo/Python-Task3-PasswordGenerator-demo.mp4) | 42 |
 | 4 | [Weather App](Python-Task4-WeatherApp) | tkinter GUI, live current / 6-hour / 5-day forecast with icons, C/F switch, errors shown in the window | [Watch](Python-Task4-WeatherApp/demo/Python-Task4-WeatherApp-demo.mp4) | 45 |
 
-Tasks 1 (Voice Assistant) and 5 (Chat Application) were not attempted - the track requires a minimum of three tasks.
-
 ## Folder layout
 
 ```
