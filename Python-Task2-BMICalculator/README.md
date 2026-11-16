@@ -4,6 +4,8 @@ A desktop **BMI Calculator** built with **tkinter**. It calculates Body Mass Ind
 
 Built for the Oasis Infobyte internship (OIBSIP), Python Programming track, Task 2.
 
+**Demo video:** [demo/Python-Task2-BMICalculator-demo.mp4](demo/Python-Task2-BMICalculator-demo.mp4) (45 seconds; GitHub plays it in the browser)
+
 | Result and history | Trend chart |
 |---|---|
 | ![BMI result](screenshots/1-result-normal.png) | ![BMI trend](screenshots/5-trend-chart.png) |
@@ -54,6 +56,7 @@ bmi_core.py            calculation, validation and the SQLite repository (no GUI
 test_bmi.py            unit tests
 test_gui_smoke.py      GUI tests
 screenshots/           pictures used in this README
+demo/                  demo video of the app
 ```
 
 ## Privacy

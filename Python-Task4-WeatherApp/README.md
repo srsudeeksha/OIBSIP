@@ -4,6 +4,8 @@ A **tkinter** weather app: type a city, get the **current weather**, the **next 
 
 Built for the Oasis Infobyte internship (OIBSIP), Python Programming track, Task 4.
 
+**Demo video:** [demo/Python-Task4-WeatherApp-demo.mp4](demo/Python-Task4-WeatherApp-demo.mp4) (1 min 8 s; GitHub plays it in the browser)
+
 | Hyderabad (C) | Same data in Fahrenheit |
 |---|---|
 | ![Celsius](screenshots/1-hyderabad-celsius.png) | ![Fahrenheit](screenshots/2-hyderabad-fahrenheit.png) |
@@ -61,4 +63,5 @@ weather_core.py      API client, data classes, parsing, conversions (no GUI code
 test_weather.py      offline unit tests
 test_gui_smoke.py    GUI tests with a fake client
 screenshots/         pictures used in this README
+demo/                demo video of the app
 ```

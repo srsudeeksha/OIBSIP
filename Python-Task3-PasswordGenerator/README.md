@@ -4,6 +4,8 @@ A **tkinter** password generator that creates strong random passwords with Pytho
 
 Built for the Oasis Infobyte internship (OIBSIP), Python Programming track, Task 3.
 
+**Demo video:** [demo/Python-Task3-PasswordGenerator-demo.mp4](demo/Python-Task3-PasswordGenerator-demo.mp4) (48 seconds; GitHub plays it in the browser)
+
 | Strong password | Weak password (short, few types) |
 |---|---|
 | ![Strong](screenshots/1-strong-password.png) | ![Weak](screenshots/2-weak-password.png) |
@@ -64,6 +66,7 @@ password_cli.py      command-line (Beginner tier) version
 test_password.py     unit tests + CLI test
 test_gui_smoke.py    GUI tests
 screenshots/         pictures used in this README
+demo/                demo video of the app
 ```
 
 ## Privacy and security notes
